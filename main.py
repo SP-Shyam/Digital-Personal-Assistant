@@ -131,3 +131,9 @@ while not crashed:
 
 pygame.quit()
 quit()
+
+
+
+# Created by Shyam Sundar Pradhan
+# At SP Webcare (All Kinds of IT Solution)
+# Visit www.spwebcare.com
